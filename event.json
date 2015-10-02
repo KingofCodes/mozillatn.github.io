@@ -1,6 +1,22 @@
 {
 "events":[
 
+		{"event_name":"One day training on Localization and Translation",
+                "event_description":"This event aims create awareness among attendees about the need for localization and how anyone, even without any technical knowledge can contribute very easily to the community by localization. This event will help to get new contributors to l10n community.",
+                "event_date":"24-10-2015",
+                "facebook_event":"",
+		"organiser":"Khaleel Jageer",
+                "etherpad_link":"https://moztn.etherpad-mozilla.org/l10n-at-amrita-univ-coimbatore"
+                },
+                
+                {"event_name":"One day Tamil l10n training & Tech Sprint",
+                "event_description":"This event aims to create awareness among attendees about the need for localization and how anyone, even without any technical knowledge can contribute very easily to the community by localization. This event will help to get new contributors to the community.",
+                "event_date":"26-09-2015",
+                "facebook_event":"",
+		"organiser":"Khaleel Jageer",
+                "etherpad_link":"https://moztn.etherpad-mozilla.org/ta-l10n-tech-sprint-at-pauls-college"
+                },
+                
 		{"event_name":"Firefox OS app development",
                 "event_description":"Introduction to Firefox OS app development, setting up simulator and WebIDE discussion.",
                 "event_date":"14-08-2015",
@@ -12,10 +28,9 @@
 		{"event_name":"Lets Learn SUMO",
                 "event_description":"SUMO is short form for Support Mozilla",
                 "event_date":"23-08-2015",
-                "facebook_event":"","organiser":"Khaleel",
+                "facebook_event":"","organiser":"Khaleel Jageer",
                 "etherpad_link":"https://moztn.etherpad.mozilla.org/WoC-SuMo-l10n"
                 },
-
 
 		{"event_name":"Addons week",
                 "event_description":"Introduction about Add-ons developement",
@@ -35,7 +50,7 @@
                 {"event_name":"L10N Handson week",
                 "event_description":"We will be learning more about localization events.",
                 "event_date":"19-06-2015",
-		"facebook_event":"","organiser":"Khaleel",
+		"facebook_event":"","organiser":"Khaleel Jageer",
 		"etherpad_link":"https://moztn.etherpad.mozilla.org/l10n-handson-week"
 		},
 
