@@ -30,6 +30,9 @@ app.config(function($routeProvider){
                 templateUrl: 'about.html'
           });
 
+ .when('/sitemap.xml',{
+                templateUrl: 'sitemap.xml'
+          });
 
 });
 
