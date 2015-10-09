@@ -6,27 +6,34 @@ app.config(function($routeProvider){
 
       $routeProvider
           .when('/',{
-                templateUrl: 'home.html'
+                templateUrl: 'home.html';
+                 gaTrack(/, "Mozilla Tamilnadu Community");
           })
 	.when('/contribute',{
-                templateUrl: 'contribute.html'
+                templateUrl: 'contribute.html';
+                gaTrack(/contribute, "Contribution Paths");
           })
 
         .when('/taskforce',{
-                templateUrl: 'task.html'
+                templateUrl: 'task.html';
+                gaTrack('/taskforce', 'Community Taskforce Team');
           })
 
         .when('/events',{
-                templateUrl: 'events.html'
+                templateUrl: 'events.html';
+                gaTrack('/events', "Community Events");
           })
 	.when('/request',{
-                templateUrl: 'request.html'
+                templateUrl: 'request.html';
+                gaTrack('/request', 'Mozilla Tamilnadu Community');
           })
         .when('/blog',{
-                templateUrl: 'blog.html'
+                templateUrl: 'blog.html';
+                gaTrack('/blog', 'Community blog');
           })
           .when('/about',{
-                templateUrl: 'about.html'
+                templateUrl: 'about.html';
+                gaTrack('/about', 'About Community');
           });
 
 
