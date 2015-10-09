@@ -39,12 +39,13 @@
 		     ],
 
 "socialmedia_links":[
-		{"link":"https://www.facebook.com/MozilliansTamilNadu", "class":"fa fa-facebook social-icon fa-3x","target":"_blank"},
+		{"link":"https://www.facebook.com/MozillaTN", "class":"fa fa-facebook social-icon fa-3x","target":"_blank"},
 		{"link":"https://twitter.com/mozillaTN", "class" :"fa fa-twitter social-icon fa-3x","target":"_blank"},
 		{"link":"https://www.facebook.com/groups/719835014702351/", "class" :"fa fa-users social-icon fa-3x","target":"_blank"},
 		{"link":"https://github.com/mozillatn", "class" :"fa fa-github social-icon fa-3x","target":"_blank"},
 		{"link":"mailto:mozchennai@gmail.com target=", "class":"fa fa-envelope social-icon fa-3x","target":"_top"},
 		{"link":"https://plus.google.com/114659195855531909366/posts", "class":"fa fa-google-plus social-icon fa-3x","target":"_blank"},
+		{"link":"https://web.telegram.org/#/im?p=@mozillatn", "class":"fa fa-paper-plane fa-3x","target":"_blank"},
 		{"link":"https://groups.google.com/forum/#!forum/mozillianstn", "class":"fa fa-users social-icon fa-3x","target":"_blank"}
 		
 		]
