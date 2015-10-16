@@ -1,5 +1,18 @@
 {
 "blog_links":[
+		{"blogpost_name":"Introduction to Bug and Bugzilla",
+		"link":"https://adamlaskas24.wordpress.com/2015/10/15/introduction-to-bug-and-bugzilla/",
+		"authorname":"Mohammed Adam"},
+	{"blogpost_name":"Exploratory Testing on Moztrap",
+		"link":"https://adamlaskas24.wordpress.com/2015/10/15/exploratory-testing-on-moztrap/",
+		"authorname":"Mohammed Adam"},
+	{"blogpost_name":"One and Done for QA begineers in Mozilla",
+		"link":"https://adamlaskas24.wordpress.com/2015/10/15/one-and-done-for-qa-begineers-in-mozilla/",
+		"authorname":"Mohammed Adam"},
+	{"blogpost_name":"What Makes a Good QA Engineer?",
+		"link":"https://adamlaskas24.wordpress.com/2015/10/15/what-makes-a-good-qa-engineer/",
+		"authorname":"Mohammed Adam"},
+	
                {"blogpost_name":"FSA Campaign Challenge in MEC Firefox Club",
 		"link":"https://adamlaskas24.wordpress.com/2015/09/30/fsa-campaign-challenge-in-mec-firefox-club-on-sept-1011/",
 		"authorname":"Mohammed Adam"},
