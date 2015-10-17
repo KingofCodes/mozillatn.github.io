@@ -48,7 +48,7 @@ Visit [blogpost.json](https://github.com/MozillaTN/mozillatn.github.io/blob/mast
      	"category2":"Category 2 which you gave in Firefox Marketplace",
 	"developer":"Name of developer(s)"
  },
-      ```
+```
       
       Always please add your apps/blogs/events at the top of JSON.
       
