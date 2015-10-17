@@ -1,0 +1,21 @@
+{
+"appsdetails":[
+
+		{
+		"app_name":"புதிய ஆத்திசூடி",
+    "marketplace_link":"https://marketplace.firefox.com/app/puthiya_aathichudi/",
+    "category1":"Education",
+     "category2":"Reference",
+		"developer":"Khaleel Jageer"
+      },
+     {
+     "app_name":"ஆத்திசூடி",
+     "marketplace_link":"https://marketplace.firefox.com/app/aathichudi/",
+     "category1":"Education",
+     "category2":"Reference",
+		"developer":"Khaleel Jageer"
+  }
+
+]
+
+}
