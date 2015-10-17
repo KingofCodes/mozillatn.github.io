@@ -67,5 +67,10 @@ $http.get('taskforce.json')
       .then(function(res){
 		$scope.taskforceteam = res.data.taskforce;
 	});
+	
+	$http.get('fxosapps.json')
+      .then(function(res){
+		$scope.fxosapps = res.data.appsdetails;
+	});
 
 });
