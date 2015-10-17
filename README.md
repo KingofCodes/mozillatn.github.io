@@ -17,12 +17,13 @@ Visit [event.js](https://github.com/MozillaTN/mozillatn.github.io/blob/master/ev
 
 At the start of the JSON add following lines
 ```json
-{"event_name":"Name of the Event",
-"event_description":"Good description about your event atleast 10 words",
-"event_date":"Date the event is held",
-"facebook_event":"",
-"organiser":"Name of the organiser",
- "etherpad_link":"etherpad link"
+{
+	"event_name":"Name of the Event",
+	"event_description":"Good description about your event atleast 10 words",
+	"event_date":"Date the event is held",
+	"facebook_event":"",
+	"organiser":"Name of the organiser",
+ 	"etherpad_link":"etherpad link"
 },
 ```
 ###Note: The etherpad can have detailed agenda of the event
@@ -30,11 +31,27 @@ At the start of the JSON add following lines
 ## For Adding Blogposts
 Visit [blogpost.json](https://github.com/MozillaTN/mozillatn.github.io/blob/master/blogpost.json)
 ```json
-{"blogpost_name":"Name of the Blogpost",
-		"link":"Link of your blogpost",
-		"authorname":"Name of the Author"},
+{
+	"blogpost_name":"Name of the Blogpost",
+	"link":"Link of your blogpost",
+	"authorname":"Name of the Author"
+},
 ```
 
+## For Adding your Webapps / Firefox OS apps
+```json
+{
+	"app_name":"Name of app as in Firefox Marketplace",
+    	"marketplace_link":"Firefox Marketplace link",
+    	"marketplace_icon":"icon link available in marketplace",
+    	"category1":"Category 1 which you gave in Firefox Marketplace",
+     	"category2":"Category 2 which you gave in Firefox Marketplace",
+	"developer":"Name of developer(s)"
+ },
+      ```
+      
+      Always please add your apps/blogs/events at the top of JSON.
+      
 Website to publish blogs and accept registration of volunteers / members.
 
 Contains Home , About , Contributing Areas, Taskforce Teams , Events , Blog , Contact pages at the header.
