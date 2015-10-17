@@ -26,6 +26,9 @@ app.config(function($routeProvider){
         .when('/blog',{
                 templateUrl: 'blog.html'
           })
+          .when('/webapps',{
+                templateUrl: 'webapps.html'
+          })
           .when('/about',{
                 templateUrl: 'about.html'
           });
