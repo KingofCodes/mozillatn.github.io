@@ -4,6 +4,7 @@
 		{
 		"app_name":"புதிய ஆத்திசூடி",
     "marketplace_link":"https://marketplace.firefox.com/app/puthiya_aathichudi/",
+    "marketplace_icon":"https://marketplace.cdn.mozilla.net/img/uploads/addon_icons/510/510762-128.png",
     "category1":"Education",
      "category2":"Reference",
 		"developer":"Khaleel Jageer"
@@ -11,6 +12,7 @@
      {
      "app_name":"ஆத்திசூடி",
      "marketplace_link":"https://marketplace.firefox.com/app/aathichudi/",
+     "marketplace_icon": "https://marketplace.cdn.mozilla.net/img/uploads/addon_icons/510/510680-128.png",
      "category1":"Education",
      "category2":"Reference",
 		"developer":"Khaleel Jageer"
