@@ -5,7 +5,9 @@
     <ul class="timeline">
 
 	<li ng-repeat="fxapps in fxosapps">
-		<a href={{fxapps.marketplace_link}}  target='_blank'>{{fxapps.app_name}}</a> <i>by {{fxapps.developer}}</i>
+		<a href={{fxapps.marketplace_link}}  target='_blank'>
+			<img src={{fxapps.marketplace_icon}} alt="Go to W3Schools!" width="128" height="128" border="0">
+		</a> <i>by {{fxapps.developer}}</i>
      </li>
 
     </ul>
