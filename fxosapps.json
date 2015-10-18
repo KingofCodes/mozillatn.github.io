@@ -16,6 +16,13 @@
      "category1":"Education",
      "category2":"Reference",
 		"developer":"Khaleel Jageer"
+  },   {
+     "app_name":"C programs",
+     "marketplace_link":"https://marketplace.firefox.com/app/c-programs/",
+     "marketplace_icon": "https://marketplace.cdn.mozilla.net/img/uploads/addon_icons/508/508396-128.png",
+     "category1":"Education",
+     "category2":"Reference",
+		"developer":"Balaji(schoolboy)"
   }
 
 ]
