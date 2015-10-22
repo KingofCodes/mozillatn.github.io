@@ -1,5 +1,8 @@
 {
 "blog_links":[
+		{"blogpost_name":"Building and Maintaining a Healthy Community",
+		"link":"https://adamlaskas24.wordpress.com/2015/10/20/building-and-maintaining-a-healthy-community/",
+		"authorname":"Mohammed Adam"},
 		{"blogpost_name":"Introduction to Bug and Bugzilla",
 		"link":"https://adamlaskas24.wordpress.com/2015/10/15/introduction-to-bug-and-bugzilla/",
 		"authorname":"Mohammed Adam"},
