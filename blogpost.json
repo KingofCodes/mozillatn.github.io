@@ -1,5 +1,11 @@
 {
 "blog_links":[
+		{"blogpost_name":"Firefox OS developer preview",
+		"link":"http://gowthamvenkat2605.blogspot.in/2015/11/firefox-os-developer-preview.html",
+		"authorname":"Gowtham Venkat"},
+	{"blogpost_name":"Firefox OS 2.5 Developer Preview",
+		"link":"http://iamvp7.github.io/2015/11/firefox-os-2.5-developer-preview/",
+		"authorname":"Viswaprasath"},
 		{"blogpost_name":"Building and Maintaining a Healthy Community",
 		"link":"https://adamlaskas24.wordpress.com/2015/10/20/building-and-maintaining-a-healthy-community/",
 		"authorname":"Mohammed Adam"},
